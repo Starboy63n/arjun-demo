@@ -1,3 +1,3 @@
 # arjun-demo
-this is my first github repository <br>
+this is my first github repository \n
 coder - arjun
